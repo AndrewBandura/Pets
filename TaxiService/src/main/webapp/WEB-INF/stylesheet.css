@@ -1,0 +1,22 @@
+#table{
+    border:1px;
+    border-style:solid;
+}
+
+.theader1{
+    border:1px;
+  /*  border-style:solid;*/
+}
+#theader2{
+    border:1px;
+  /*  border-style:solid;*/
+}
+.link{
+
+}
+
+
+a:hover {
+    font-weight: bold;
+    color:red;
+}

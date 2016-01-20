@@ -1,0 +1,8 @@
+h3 {color:pink}
+#greycol{color:grey}
+div p{color:red}
+span p{color:brown}
+div div{color:silver}
+h4+p{color:green}
+.yellowcol{color:yellow}
+.yellowcol+div{color:olive}
